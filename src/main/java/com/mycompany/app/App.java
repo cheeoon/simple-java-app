@@ -5,12 +5,12 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "I lsdenkins";
+    private static final String MESSAGE = "I love jenkins";
 
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modafgdfagoject !");
+        System.out.println("I love jenkins !");
     }
 
     public String getMessage() {
